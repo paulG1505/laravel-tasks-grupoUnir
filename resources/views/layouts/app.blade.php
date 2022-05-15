@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Grupo Unir: PAOLA DEL ROCÍO VARGAS - LUIS ARMANDO SÁNCHEZ  -EDISON BOLÍVAR BALSECA  -HENRY DAVID SÁNCHEZ - BRYAN PAUL GUAMAN 
+                    APP Tareas: PAOLA DEL ROCÍO VARGAS - LUIS ARMANDO SÁNCHEZ  -EDISON BOLÍVAR BALSECA  -HENRY DAVID SÁNCHEZ - BRYAN PAUL GUAMAN 
                 </a>
             </div>
 
