@@ -1,19 +1,12 @@
----
-languages:
-- php
-page_type: sample
-description: "This is a sample application that you can use to follow along with the Build a PHP and MySQL web app in Azure tutorial."
-products:
-- azure
-- azure-app-service
----
+# Laravel sample for Azure App Service Grupo Unir
 
-# Laravel sample for Azure App Service
-
-This is a sample application that you can use to follow along with the tutorial at 
-[Build a PHP and MySQL web app in Azure](https://docs.microsoft.com/azure/app-service-web/app-service-web-tutorial-php-mysql). 
-
-This sample application is taken from the official [Laravel sample task list application](https://github.com/laravel/quickstart-basic) and modified minimally to make it work with Azure App Service. For instructions on how to use Laravel, see the official repository. 
+Este repositorio se ha creado para la resolución del laboratorio de la materia  Administración de Servidores Web 
+conformado por los siguientes integrantes:
+- PAOLA DEL ROCÍO VARGAS GÓMEZ
+- LUIS ARMANDO SÁNCHEZ NACIMBA
+- EDISON BOLÍVAR BALSECA LUCAS
+- HENRY DAVID SÁNCHEZ HERRERA
+- BRYAN PAUL GUAMAN CAIZAGUANO
 
 ## License
 
